@@ -1,5 +1,6 @@
 body{
-    color: red;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
    
 }
 
@@ -14,10 +15,49 @@ body{
 }  
 
 .flex-child:first-child {
-    margin-right: 20px;
+    margin-right: 2px;
 } 
+ 
 
-
-.weatherIcon{
+ 
+.box1, .box6{
     background-color: pink;
+    width:50%;
+    text-align: center;
+    border: solid 2px pink;
+    border-radius: 10px 10px 0 0;
+    margin: 10px;
+}
+
+.box2, .box5{
+    background-color: aqua;
+    width:50%;
+    text-align: center;
+    border: solid 2px aqua;
+    border-radius: 10px 10px 0 0;
+    margin:10px;
+}
+
+.box3, .box8{
+    background-color: white;
+    width:50%;
+    text-align: center;
+    border-bottom: solid 2px pink;
+    border-left: solid 2px pink;
+    border-right: solid 2px pink;
+    border-radius: 10px;
+    border-radius: 0 0 10px 10px;
+    margin: 10px;
+}
+
+.box4, .box7{
+    background-color: white;
+    width:50%;
+    text-align: center;
+    border-bottom: solid 2px aqua;
+    border-left: solid 2px aqua;
+    border-right: solid 2px aqua;
+    border-radius: 10px;
+    border-radius: 0 0 10px 10px;
+    margin: 10px;
 }
