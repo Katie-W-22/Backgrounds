@@ -125,3 +125,13 @@ img{
 .box1, .box2, .box5, .box6, .box9, .box10{
     color: white;
 }
+
+.extra{
+    color: white;
+    background-color: #2f603a;
+    width:50%;
+    text-align: center;
+    border: solid 2px #2f603a;
+    border-radius: 10px 10px 0 0;
+    margin: 10px;
+}
