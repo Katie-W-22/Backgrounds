@@ -20,43 +20,93 @@ body{
  
 
  
-.box1, .box6, .box9{
-    background-color: rgb(201, 63, 86);
+.box1, .box10{
+    background-color: #2f603a;
     width:50%;
     text-align: center;
-    border: solid 2px rgb(201, 63, 86);
+    border: solid 2px #2f603a;
     border-radius: 10px 10px 0 0;
     margin: 10px;
 }
 
-.box2, .box5, .box10{
-    background-color: rgb(34, 173, 224);
+.box5{
+    background-color: #dd6646;
     width:50%;
     text-align: center;
-    border: solid 2px rgb(34, 173, 224);
+    border: solid 2px #dd6646;
+    border-radius: 10px 10px 0 0;
+    margin: 10px;
+}
+
+.box6{
+    background-color: #593330;
+    width:50%;
+    text-align: center;
+    border: solid 2px #593330;
+    border-radius: 10px 10px 0 0;
+    margin: 10px;
+}
+
+.box2{
+    background-color: #b9655a;
+    width:50%;
+    text-align: center;
+    border: solid 2px #b9655a;
     border-radius: 10px 10px 0 0;
     margin:10px;
 }
 
-.box3, .box8, .box11{
+.box3, .box12{
     background-color: white;
     width:50%;
     text-align: center;
-    border-bottom: solid 10px pink;
-    border-left: solid 10px pink;
-    border-right: solid 10px pink;
+    border-bottom: solid 2px #2f603a;
+    border-left: solid 2px #2f603a;
+    border-right: solid 2px #2f603a;
     border-radius: 10px;
     border-radius: 0 0 10px 10px;
     margin: 10px;
 }
 
-.box4, .box7, .box12{
+.box8{
     background-color: white;
     width:50%;
     text-align: center;
-    border-bottom: solid 2px aqua;
-    border-left: solid 2px aqua;
-    border-right: solid 2px aqua;
+    border-bottom: solid 2px #593330;
+    border-left: solid 2px #593330;
+    border-right: solid 2px #593330;
+    border-radius: 10px;
+    border-radius: 0 0 10px 10px;
+    margin: 10px;
+}
+
+.box9{
+    background-color: #eea594;
+    width:50%;
+    text-align: center;
+    border: solid 2px #eea594;
+    border-radius: 10px 10px 0 0;
+    margin: 10px;
+}
+
+ .box11{
+    background-color: white;
+    width:50%;
+    text-align: center;
+    border-bottom: solid 2px #eea594;
+    border-left: solid 2px #eea594;
+    border-right: solid 2px #eea594;
+    border-radius: 10px;
+    border-radius: 0 0 10px 10px;
+    margin: 10px;
+}
+.box4, .box7{
+    background-color: white;
+    width:50%;
+    text-align: center;
+    border-bottom: solid 2px #b9655a;
+    border-left: solid 2px #b9655a;
+    border-right: solid 2px #b9655a;
     border-radius: 10px;
     border-radius: 0 0 10px 10px;
     margin: 10px;
