@@ -22,34 +22,37 @@ body{
  
 .box1, .box10{
     background-color: #2f603a;
-    width:50%;
+    width:33%;
     text-align: center;
     border: solid 2px #2f603a;
     border-radius: 10px 10px 0 0;
     margin: 10px;
 }
 
-.box5{
+.box5, .extra2{
+    color:white;
     background-color: #dd6646;
-    width:50%;
+    width:33%;
     text-align: center;
     border: solid 2px #dd6646;
     border-radius: 10px 10px 0 0;
     margin: 10px;
 }
 
-.box6{
+.box6, .extra3{
+    color: white;
     background-color: #593330;
-    width:50%;
+    width:33%;
     text-align: center;
     border: solid 2px #593330;
     border-radius: 10px 10px 0 0;
     margin: 10px;
 }
 
-.box2{
+.box2, .extra1{
+    color: white;
     background-color: #b9655a;
-    width:50%;
+    width:33%;
     text-align: center;
     border: solid 2px #b9655a;
     border-radius: 10px 10px 0 0;
@@ -58,7 +61,7 @@ body{
 
 .box3, .box12{
     background-color: white;
-    width:50%;
+    width:33%;
     text-align: center;
     border-bottom: solid 2px #2f603a;
     border-left: solid 2px #2f603a;
@@ -70,7 +73,7 @@ body{
 
 .box8{
     background-color: white;
-    width:50%;
+    width:33%;
     text-align: center;
     border-bottom: solid 2px #593330;
     border-left: solid 2px #593330;
@@ -82,7 +85,7 @@ body{
 
 .box9{
     background-color: #eea594;
-    width:50%;
+    width:33%;
     text-align: center;
     border: solid 2px #eea594;
     border-radius: 10px 10px 0 0;
@@ -91,7 +94,7 @@ body{
 
  .box11{
     background-color: white;
-    width:50%;
+    width:33%;
     text-align: center;
     border-bottom: solid 2px #eea594;
     border-left: solid 2px #eea594;
@@ -102,7 +105,7 @@ body{
 }
 .box4, .box7{
     background-color: white;
-    width:50%;
+    width:33%;
     text-align: center;
     border-bottom: solid 2px #b9655a;
     border-left: solid 2px #b9655a;
@@ -126,12 +129,3 @@ img{
     color: white;
 }
 
-.extra{
-    color: white;
-    background-color: #2f603a;
-    width:50%;
-    text-align: center;
-    border: solid 2px #2f603a;
-    border-radius: 10px 10px 0 0;
-    margin: 10px;
-}
