@@ -129,3 +129,21 @@ img{
     color: white;
 }
 
+
+#quiz4{
+    opacity: 0%;
+    color: black;
+  }
+    .quiz{
+      color: black;
+      text-align: left;
+    }
+
+    #codecad, #fcc, #codewars{
+        font-weight: bold;
+    }
+
+    li{
+        text-align: left;
+       
+    }
