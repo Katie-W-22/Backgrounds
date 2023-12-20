@@ -1,5 +1,5 @@
 # Backgrounds
-
+Learning about styling and colour-theory via my first tech-CV attempt!
 https://github.com/Katie-W-22/KatieW-CV-styled/assets/142401708/a38a2a06-3102-4c6a-ab12-ee49ab479487
 
 
